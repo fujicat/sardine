@@ -28,7 +28,7 @@ php composer.phar install
 
 ## Licence
 
-[MIT](https://github.com/fujicat/sardine/blob/master/LICENCE)
+[MIT](https://github.com/fujicat/sardine/blob/master/LICENSE)
 
 ## Author
 
