@@ -3,8 +3,7 @@ Sardine
 
 ## Overview
 
-Sardineは主としてFuelPHPで使用することを目的とした各種ライブラリです。  
-FuelPHP用に作っていますが、多分他のどのフレームワークでも使用できます。
+Sardineは主としてFuelPHPで使用することを目的とした各種ライブラリです。
 
 ## Install
 パッケージ依存管理ツールComposerを使用します。
