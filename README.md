@@ -14,12 +14,10 @@ Sardineは主としてFuelPHPで使用することを目的とした各種ライ
     "url": "https://github.com/fujicat/sardine.git"
 }
 ```
-
 2. composer.jsonのrequireセクションに以下を記述
 ```
 "fujicat/sardine": "1.0.*"
 ```
-
 3. 以下のコマンドでインストール
 ```
 php composer.phar install
