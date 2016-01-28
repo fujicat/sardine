@@ -1,0 +1,24 @@
+{
+    "name": "fujicat/sardine",
+    "description": "Library for FuelPHP",
+    "keywords": ["fujicat", "sardine", "library", "fuelphp"],
+    "homepage": "http://fujicat.com/",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fujicat",
+            "email": "contact@fujicat.com",
+            "homepage": "http://fujicat.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {"Fujicat\\Sardine\\": "src/"}
+    }
+}
